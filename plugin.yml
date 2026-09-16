@@ -1,0 +1,5 @@
+name: apibossbar
+main: xenialdan\apibossbar\ApiBossBar
+api: 5.0.0
+version: 0.3.1
+author: inxomnyaa
